@@ -193,3 +193,44 @@ Throughout this project, the following data analytics and business intelligence 
 - Data Visualization
 - Business Storytelling
 - GitHub Documentation
+
+# Future Improvements
+
+Potential future enhancements include:
+
+- Automate data refresh and dashboard updates.
+- Add additional external market indicators for a more comprehensive market evaluation.
+- Develop a market attractiveness scoring model to support target market prioritization.
+- Include additional retailer and sales channel performance metrics.
+- Extend the analysis to additional European markets.
+- Add historical and predictive analysis to support future business planning.
+
+---
+
+# Project Highlights
+
+✓ End-to-end business analytics workflow
+
+✓ BigQuery data warehouse integration
+
+✓ SQL-based KPI calculations and data aggregation
+
+✓ Interactive Looker Studio dashboard
+
+✓ Business performance and retailer analysis
+
+✓ Target market and reference country comparison
+
+✓ Data-driven market expansion analysis
+
+✓ Professional GitHub documentation
+
+# Author
+
+**Mustafa Al Hamoud**
+
+IT Engineer | Data Analytics Enthusiast
+
+GitHub: https://github.com/Mustafa-Al-Hamoud
+
+---
