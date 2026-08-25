@@ -234,3 +234,9 @@ IT Engineer | Data Analytics Enthusiast
 GitHub: https://github.com/Mustafa-Al-Hamoud
 
 ---
+
+
+⭐ **If you found this project interesting, feel free to give it a star on GitHub!**
+
+
+The following charts summarize the key business insights generated during the analysis.
