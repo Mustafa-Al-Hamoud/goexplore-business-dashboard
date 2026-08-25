@@ -30,4 +30,37 @@ The dashboard aims to:
 The dashboard is designed as an interactive decision-support tool rather than a static analysis. It allows management to explore the available data and use the insights to support future strategic decisions.
 
 
+# Key Findings
 
+The dashboard highlights several important business insights:
+
+- Specialized stores generated higher revenue than general stores during the analyzed period.
+- Revenue performance varies significantly across countries, with the United States showing the strongest performance among the displayed markets.
+- Overall revenue increased from 2016 to 2017, indicating positive business development over the analyzed period.
+- Web sales represent the dominant sales channel across the displayed months.
+- Among the selected target markets, Norway shows the strongest market attractiveness based on GDP per capita and online purchase rate.
+- Poland and the Czech Republic show relatively strong online purchase rates but remain below the defined GDP per capita target.
+- Portugal currently falls below both target thresholds, indicating lower attractiveness according to the selected market indicators.
+- Reference countries are used as benchmarks to support the comparison and evaluation of potential expansion markets.
+
+# Project Workflow
+
+The project follows a data-driven workflow from raw CSV data to an interactive business analytics dashboard:
+
+```text
+CSV Data
+    │
+    ▼
+BigQuery Data Warehouse
+    │
+    ▼
+SQL Queries & KPI Calculations
+    │
+    ▼
+BigQuery Views
+    │
+    ▼
+Looker Studio
+    │
+    ▼
+Interactive Business Dashboard
