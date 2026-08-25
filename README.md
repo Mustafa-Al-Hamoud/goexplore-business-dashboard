@@ -64,3 +64,100 @@ Looker Studio
     │
     ▼
 Interactive Business Dashboard
+
+# Repository Structure
+
+```text
+goexplore-business-dashboard/
+
+│
+├── data/
+│   ├── G-DAI_009_GoExplore - daily_sales.csv
+│   ├── G-DAI_009_GoExplore - methods.csv
+│   ├── G-DAI_009_GoExplore - products.csv
+│   ├── G-DAI_009_GoExplore - retailers.csv
+│   ├── countries.csv
+│   └── external_info.csv
+│
+├── images/
+│   ├── CEO_Executive_Summary.png
+│   ├── Channel_Strategy.png
+│   └── Market_Expansion.png
+│
+└── README.md
+
+# Dashboard Pages
+
+## 1. CEO Executive Summary
+
+The CEO Executive Summary provides a high-level overview of GoExplore's current business performance.
+
+The page allows management to monitor key business KPIs and explore overall sales performance across different countries, store categories, and time periods.
+
+### Main Elements
+
+- Total Revenue
+- Total Sold
+- Average Order Value
+- Number of Retailers
+- Revenue by Store Category
+- Revenue by Country
+- Revenue Trend over Time
+
+<p align="center">
+<img src="images/CEO_Executive_Summary.png" width="90%">
+</p>
+
+---
+
+## 2. Channel & Store Performance
+
+The Channel & Store Performance page focuses on comparing different retailer and sales channel characteristics.
+
+It helps management understand how specialized shops perform compared with general shops and how different sales channels contribute to overall business performance.
+
+### Main Elements
+
+- Revenue by Store Category
+- Market Performance by Country
+- Revenue and Sales Volume
+- Average Price
+- Channel Growth over Time
+- Comparison of Specialized Shops and General Shops
+
+<p align="center">
+<img src="images/Channel_Strategy.png" width="90%">
+</p>
+
+---
+
+## 3. Market Expansion & Country Comparison
+
+The Market Expansion & Country Comparison page supports the evaluation of selected European target markets.
+
+Each target country is compared with two reference countries using relevant external market indicators.
+
+### Main Elements
+
+- Target & Reference Country Benchmarks
+- Population
+- GDP
+- GDP per Capita
+- Online Purchase Rate
+- International Tourism Revenue
+- Market Attractiveness Matrix
+
+<p align="center">
+<img src="images/Market_Expansion.png" width="90%">
+</p>
+
+### Reference Country Selection Strategy
+
+Each target market is compared with two reference countries.
+
+The reference countries are selected based on two criteria:
+
+- Similar population size to the target market.
+- At least one reference country with geographic proximity to the target market.
+
+Reference countries serve as benchmarks for evaluating the relative attractiveness of potential target markets.
