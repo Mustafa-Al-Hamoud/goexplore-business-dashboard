@@ -1,3 +1,11 @@
+<p align="center">
+
+<a href="https://datastudio.google.com/reporting/0110f7a2-231d-49ee-8723-513f4008151c/page/p_fjtvrrns6d">
+<img src="https://img.shields.io/badge/View%20Interactive%20Dashboard-Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+</a>
+
+</p>
+
 # goexplore-business-dashboard
 Business analytics dashboard for GoExplore, focusing on market performance and expansion potential across selected European target markets.
 
