@@ -64,7 +64,7 @@ Looker Studio
     │
     ▼
 Interactive Business Dashboard
-
+```
 
 # Repository Structure
 
@@ -86,6 +86,7 @@ goexplore-business-dashboard/
 │   └── Market_Expansion.png
 │
 └── README.md
+```
 
 # Dashboard Pages
 
