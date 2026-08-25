@@ -19,14 +19,15 @@ The dashboard is designed as an interactive decision-support tool that allows ma
 
 GoExplore needs a clear and data-driven view of its business performance and potential opportunities for future market expansion.
 
-The available data contains information about sales performance, retailers, products, and selected external market indicators. However, these data sources need to be brought together in a way that allows management to evaluate the business from different perspectives.
+The dashboard aims to:
 
-The main challenges are:
+- **Monitor current business and sales performance** through relevant KPIs.
+- **Compare specialized shops with general shops** to identify differences in performance.
+- **Evaluate selected European target markets** using relevant external market indicators.
+- **Compare target markets with suitable reference countries** to support market expansion decisions.
+- **Provide an interactive decision-support tool** that enables management to explore the available data and identify relevant business patterns.
 
-- Understanding current business and sales performance.
-- Comparing the performance of specialized shops with general shops.
-- Identifying differences in performance across markets and retailers.
-- Evaluating selected European target markets using relevant external market indicators.
-- Supporting market expansion decisions through comparable reference markets.
+The dashboard is designed as an interactive decision-support tool rather than a static analysis. It allows management to explore the available data and use the insights to support future strategic decisions.
 
-The challenge is to provide this information in an interactive dashboard that enables management to explore the data and make informed strategic decisions.
+
+
