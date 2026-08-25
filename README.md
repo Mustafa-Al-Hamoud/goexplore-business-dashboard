@@ -163,3 +163,33 @@ The reference countries are selected based on two criteria:
 - At least one reference country with geographic proximity to the target market.
 
 Reference countries serve as benchmarks for evaluating the relative attractiveness of potential target markets.
+
+
+# Technologies
+
+This project was developed using:
+
+- Google BigQuery
+- SQL
+- Looker Studio
+- CSV
+- GitHub
+
+---
+
+# Skills Demonstrated
+
+Throughout this project, the following data analytics and business intelligence skills were applied:
+
+- Data Integration
+- SQL Querying
+- KPI Definition and Calculation
+- Data Aggregation
+- BigQuery Views
+- Interactive Dashboard Development
+- Business Performance Analysis
+- Retailer and Channel Analysis
+- Market Analysis
+- Data Visualization
+- Business Storytelling
+- GitHub Documentation
